@@ -22,3 +22,4 @@ $ cargo run
 * Add some sort of controller support. It was out of scope for the hackathon.
 * Safer defaults and path/query handling
 * Make multithreaded: https://doc.rust-lang.org/book/ch20-02-multithreaded.html
+* Support request types other than GET
