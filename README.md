@@ -19,4 +19,5 @@ $ cargo run
 
 ### TODO
 
-Add some sort of controller support. It was out of scope for the hackathon.
+* Add some sort of controller support. It was out of scope for the hackathon.
+* Safer defaults and path/query handling
