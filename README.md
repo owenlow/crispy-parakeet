@@ -17,6 +17,8 @@ Then start the server:
 $ cargo run
 ```
 
+The server will now be running at `http://localhost:7878/`, reading from `src/pages/index.hbs`.
+
 ### TODO
 
 * Add some sort of controller support. It was out of scope for the hackathon.
